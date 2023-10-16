@@ -29,6 +29,7 @@ function App() {
         Click on the Vite and React logos to learn more
       </p>
       <p>Add test CI/CD!</p>
+      <p>Push to the server</p>
     </>
   )
 }
