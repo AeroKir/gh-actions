@@ -30,7 +30,7 @@ function App() {
       </p>
       <p>Add test CI/CD</p>
       <p>Push to the server!!!</p>
-      <button>Push</button>
+      <p>Test deployment CI/CD</p>
     </>
   )
 }
